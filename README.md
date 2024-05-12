@@ -1,6 +1,6 @@
 # Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE: 
+### DATE: 12/5/2024
 
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
@@ -37,8 +37,8 @@
 ![WhatsApp Image 2024-05-12 at 19 06 13_11fc20a5](https://github.com/AasrithSairam/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/139331438/d6071169-eb75-44a3-bf69-07c0cc8534ca)
 
 
-### Name:
-### Register Number:
+### Name: Ponguru Aasrith Sairam
+### Register Number: 212223240116
 
 
 ## RESULT:
